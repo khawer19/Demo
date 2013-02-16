@@ -1,4 +1,3 @@
-Demo
+DemoCheck
 ====
-
 See how it works
